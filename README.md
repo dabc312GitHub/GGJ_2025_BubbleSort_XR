@@ -87,34 +87,23 @@ Agradecemos comentarios, colaboraciones y preguntas sobre el proyecto. Formas de
 
 | Nombre | Rol | Correo Electrónico |
 | --- | --- | --- |
-| Daryl Butrón | Desarrollador XR | `alex@equipoxrggj.com` |
-| Alejandro Delgado | Artista 3D/Animadora | `samira@equipoxrggj.com` |
-| Jean Paul Ari | Diseño de Sonido y Emotes | `jean.ari@fincite.dev` |
-| Jessica Hancco | Diseño de Sonido y Emotes | `jordan@ggjmail.com` |
-| Pstrick Ramírez | Diseño de Sonido y Emotes | `jordan@ggjmail.com` |
+| Daryl Butrón | Desarrollador XR | `daryl.butron@ucsp.edu.pe` |
+| Alejandro Delgado | Artista 3D/Animadora | `alejandro.delgado@ucsp.edu.pe` |
+| Jean Paul Ari | Diseño de Sonido y Emotes | `jean.ari@ucsp.edu.pe` |
+| Jessica Hancco | Maquetación y Documentación | `jhanccove@unsa.edu.pe` |
+| Pstrick Ramírez | Diseño gráfico y Documentación | `pramirezs@ulasalle.edu.pe` |
 
-### **Colaboradores Adicionales**
-
-- **Testers**: `testers@equipoxrggj.com`
-- **Gestor de Comunidad**: [Servidor de Discord](https://discord.gg/tu-enlace)
-
----
 
 ### 📍 **Métodos de Contacto Preferidos**
 
 1. **Reporte de Errores**:
     
-    Abre un informe en nuestro [repositorio de GitHub](https://github.com/tu-usuario/xr-aventura-ggj2025/issues).
+    Abre un informe en nuestro [repositorio de GitHub](https://github.com/dabc312GitHub/GGJ_2025_BubbleSort_XR.git).
     
 2. **Prensa/Patrocinadores**:
     
-    Usa el asunto **"Colaboración XR GGJ2025"** al escribir a `contacto@equipoxrggj.com`.
+    Usa el asunto **"Colaboración XR GGJ2025"** al escribir a `daryl.butron@ucsp.edu.pe`.
     
-3. **Actualizaciones en Redes**:
-    
-    Síguenos en Twitter/X: [**@AventuraXR_GGJ**](https://twitter.com/)
-    
-
 ---
 
 ### 🕒 **Tiempos de Respuesta**
